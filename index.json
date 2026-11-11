@@ -1,0 +1,72 @@
+{
+  "product": "dxbank",
+  "published": "2026-11-11",
+  "entries": [
+    {
+      "edition": "cloud-server",
+      "os": "windows",
+      "arch": "amd64",
+      "version": "1.0.0",
+      "file": "Dxbank-Cloud-Server-Windows-1.0.0.bankupdate",
+      "sha256": "09acd01b8ca91a52d5251f6dd9853c6dc82988aadd172e36a1816fa005976c49",
+      "size": 9990458,
+      "built": "2026-11-11",
+      "notes": "First official release of Dxbank."
+    },
+    {
+      "edition": "cloud",
+      "os": "windows",
+      "arch": "amd64",
+      "version": "1.0.0",
+      "file": "Dxbank-Cloud-Windows-1.0.0.bankupdate",
+      "sha256": "b90cec82cdc5a9c4a741b7824a99d5d6bcd9895bf7872649d60bf4d6475044a3",
+      "size": 9926898,
+      "built": "2026-11-11",
+      "notes": "First official release of Dxbank."
+    },
+    {
+      "edition": "connected-server",
+      "os": "windows",
+      "arch": "amd64",
+      "version": "1.0.0",
+      "file": "Dxbank-Connected-Server-Windows-1.0.0.bankupdate",
+      "sha256": "a6fd0b3662d5530384555110ad288e744d707a15e0473d213cebd6f4796dbf0e",
+      "size": 9909793,
+      "built": "2026-11-11",
+      "notes": "First official release of Dxbank."
+    },
+    {
+      "edition": "connected",
+      "os": "windows",
+      "arch": "amd64",
+      "version": "1.0.0",
+      "file": "Dxbank-Connected-Windows-1.0.0.bankupdate",
+      "sha256": "37c144985601a488106d611af001248d31d036dad3b1045d958378e66d2acb50",
+      "size": 9870159,
+      "built": "2026-11-11",
+      "notes": "First official release of Dxbank."
+    },
+    {
+      "edition": "server",
+      "os": "windows",
+      "arch": "amd64",
+      "version": "1.0.0",
+      "file": "Dxbank-Server-Windows-1.0.0.bankupdate",
+      "sha256": "50ffdaeb7d2db095ea2143f5365a8775cce4eb7cccfdfee25296a6084c03010d",
+      "size": 9884493,
+      "built": "2026-11-11",
+      "notes": "First official release of Dxbank."
+    },
+    {
+      "edition": "offline",
+      "os": "windows",
+      "arch": "amd64",
+      "version": "1.0.0",
+      "file": "Dxbank-Windows-1.0.0.bankupdate",
+      "sha256": "5cde4f1fbbc58778c4bcdcbf73d9182a633e4566e696cfc66a9f48110b448d8b",
+      "size": 9854009,
+      "built": "2026-11-11",
+      "notes": "First official release of Dxbank."
+    }
+  ]
+}
