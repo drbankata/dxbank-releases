@@ -1,6 +1,6 @@
 {
   "product": "dxbank",
-  "published": "2026-11-21",
+  "published": "2026-11-22",
   "entries": [
     {
       "edition": "cloud-server",
@@ -8,10 +8,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Dxbank-Cloud-Server-Windows-1.0.0.bankupdate",
-      "sha256": "ab860a58607446bb39b337cfc93b2d74779ce55a33e3b6058bc4528d7a1cab4c",
-      "size": 9974386,
-      "built": "2026-11-21",
-      "notes": "First official release of Dxbank."
+      "sha256": "706be36756bcb68d472fc862435622478bbf53db2408bb28b36705c46bde1fe1",
+      "size": 9992303,
+      "built": "2026-11-22",
+      "notes": "Report files for every report writer: Typist profile, Word and text attachments, Attach report file on result entry."
     },
     {
       "edition": "cloud",
@@ -19,10 +19,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Dxbank-Cloud-Windows-1.0.0.bankupdate",
-      "sha256": "d0eec06c83e15c1cfdf672e513fd3d4e94ce4dd9758d064dfd749a0775d5691e",
-      "size": 9954468,
-      "built": "2026-11-21",
-      "notes": "First official release of Dxbank."
+      "sha256": "b36a1b1ce873bf8261e7a9bfd3ede5f6f741b2bc364687f99c996b4965f82351",
+      "size": 9963599,
+      "built": "2026-11-22",
+      "notes": "Report files for every report writer: Typist profile, Word and text attachments, Attach report file on result entry."
     },
     {
       "edition": "connected-server",
@@ -30,10 +30,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Dxbank-Connected-Server-Windows-1.0.0.bankupdate",
-      "sha256": "c392b23c123fb4090cc6a76f3f4e384f7742b94759e77e544b149c715f11488f",
-      "size": 9934761,
-      "built": "2026-11-21",
-      "notes": "First official release of Dxbank."
+      "sha256": "dec9ffdcfe6298a645441d978a0b56a4fdec82edccc9176e4610ad2b4250db60",
+      "size": 9935709,
+      "built": "2026-11-22",
+      "notes": "Report files for every report writer: Typist profile, Word and text attachments, Attach report file on result entry."
     },
     {
       "edition": "connected",
@@ -41,10 +41,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Dxbank-Connected-Windows-1.0.0.bankupdate",
-      "sha256": "b2108ad57173125d831171ea02212e9b2ae607b6857aaea8355447a6d9316f22",
-      "size": 9886141,
-      "built": "2026-11-21",
-      "notes": "First official release of Dxbank."
+      "sha256": "a06eb18a9d6ee317a5a1a4ec1c9cbd04e7bda5c1e5c016a687ee77462045befb",
+      "size": 9903526,
+      "built": "2026-11-22",
+      "notes": "Report files for every report writer: Typist profile, Word and text attachments, Attach report file on result entry."
     },
     {
       "edition": "server",
@@ -52,10 +52,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Dxbank-Server-Windows-1.0.0.bankupdate",
-      "sha256": "e61cbb1efb9160e8c6f5032f35c47f7ed0f4ff89f2167b302caedcaeec3935e6",
-      "size": 9892322,
-      "built": "2026-11-21",
-      "notes": "First official release of Dxbank."
+      "sha256": "26781c2e643a867b135c73121f1695cc495ac1de91d67db9241f5ba486673303",
+      "size": 9896879,
+      "built": "2026-11-22",
+      "notes": "Report files for every report writer: Typist profile, Word and text attachments, Attach report file on result entry."
     },
     {
       "edition": "offline",
@@ -63,10 +63,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Dxbank-Windows-1.0.0.bankupdate",
-      "sha256": "6d689598d9bfe20c0afc1ac2dec4597bd20ad6e993ce0eaee04752d5ef3cf5da",
-      "size": 9849580,
-      "built": "2026-11-21",
-      "notes": "First official release of Dxbank."
+      "sha256": "46d0bcb2ce58cf09bef79f7485d1d4025ff92a04468a6d9b6e99e9489f714b9d",
+      "size": 9852310,
+      "built": "2026-11-22",
+      "notes": "Report files for every report writer: Typist profile, Word and text attachments, Attach report file on result entry."
     }
   ]
 }
