@@ -8,10 +8,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Dxbank-Cloud-Server-Windows-1.0.0.bankupdate",
-      "sha256": "706be36756bcb68d472fc862435622478bbf53db2408bb28b36705c46bde1fe1",
-      "size": 9992303,
+      "sha256": "43a213852e29f59ef2b31fda9e208faf6760058e50a957d678aa78165a42e674",
+      "size": 10018406,
       "built": "2026-11-22",
-      "notes": "Report files for every report writer: Typist profile, Word and text attachments, Attach report file on result entry."
+      "notes": "Every document out from any computer: Download on other computers, PDF and WhatsApp for receipts, prelims, attachments and Word files, the doctor's own PDF; quality files PDF/JPG/PNG only."
     },
     {
       "edition": "cloud",
@@ -19,10 +19,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Dxbank-Cloud-Windows-1.0.0.bankupdate",
-      "sha256": "b36a1b1ce873bf8261e7a9bfd3ede5f6f741b2bc364687f99c996b4965f82351",
-      "size": 9963599,
+      "sha256": "62735aaf6bf069fbb41380bb63e526d33c21924d1a4b7fc92f4fbbaf817aaf27",
+      "size": 9997889,
       "built": "2026-11-22",
-      "notes": "Report files for every report writer: Typist profile, Word and text attachments, Attach report file on result entry."
+      "notes": "Every document out from any computer: Download on other computers, PDF and WhatsApp for receipts, prelims, attachments and Word files, the doctor's own PDF; quality files PDF/JPG/PNG only."
     },
     {
       "edition": "connected-server",
@@ -30,10 +30,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Dxbank-Connected-Server-Windows-1.0.0.bankupdate",
-      "sha256": "dec9ffdcfe6298a645441d978a0b56a4fdec82edccc9176e4610ad2b4250db60",
-      "size": 9935709,
+      "sha256": "3e320e1f1b4d73218a7f83a23c3068a87bf265e071732cc7c2934d8f9d500b94",
+      "size": 9977104,
       "built": "2026-11-22",
-      "notes": "Report files for every report writer: Typist profile, Word and text attachments, Attach report file on result entry."
+      "notes": "Every document out from any computer: Download on other computers, PDF and WhatsApp for receipts, prelims, attachments and Word files, the doctor's own PDF; quality files PDF/JPG/PNG only."
     },
     {
       "edition": "connected",
@@ -41,10 +41,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Dxbank-Connected-Windows-1.0.0.bankupdate",
-      "sha256": "a06eb18a9d6ee317a5a1a4ec1c9cbd04e7bda5c1e5c016a687ee77462045befb",
-      "size": 9903526,
+      "sha256": "53ad0cf84e08ab8a02ef8d8bfff0a47c48dddbfd805d68a27f70243c75e4f1f8",
+      "size": 9929944,
       "built": "2026-11-22",
-      "notes": "Report files for every report writer: Typist profile, Word and text attachments, Attach report file on result entry."
+      "notes": "Every document out from any computer: Download on other computers, PDF and WhatsApp for receipts, prelims, attachments and Word files, the doctor's own PDF; quality files PDF/JPG/PNG only."
     },
     {
       "edition": "server",
@@ -52,10 +52,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Dxbank-Server-Windows-1.0.0.bankupdate",
-      "sha256": "26781c2e643a867b135c73121f1695cc495ac1de91d67db9241f5ba486673303",
-      "size": 9896879,
+      "sha256": "048ccb39f5f16d632a6dd4a02f6554b04cc727c04a1c634c2d5d1ffe7ded4f8f",
+      "size": 9954567,
       "built": "2026-11-22",
-      "notes": "Report files for every report writer: Typist profile, Word and text attachments, Attach report file on result entry."
+      "notes": "Every document out from any computer: Download on other computers, PDF and WhatsApp for receipts, prelims, attachments and Word files, the doctor's own PDF; quality files PDF/JPG/PNG only."
     },
     {
       "edition": "offline",
@@ -63,10 +63,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Dxbank-Windows-1.0.0.bankupdate",
-      "sha256": "46d0bcb2ce58cf09bef79f7485d1d4025ff92a04468a6d9b6e99e9489f714b9d",
-      "size": 9852310,
+      "sha256": "a33783463e0bf3e3fa679a3a2f209463c35b8c3a3e5b6072cd27ad8c35bc77c1",
+      "size": 9903133,
       "built": "2026-11-22",
-      "notes": "Report files for every report writer: Typist profile, Word and text attachments, Attach report file on result entry."
+      "notes": "Every document out from any computer: Download on other computers, PDF and WhatsApp for receipts, prelims, attachments and Word files, the doctor's own PDF; quality files PDF/JPG/PNG only."
     }
   ]
 }
